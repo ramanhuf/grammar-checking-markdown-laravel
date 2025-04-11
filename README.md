@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple **Markdown Note-Taking App** built with Laravel. It allows users to create, edit, and store markdown notes, check their grammar, and render them into HTML. The project is inspired by the [Markdown Note-Taking App](https://roadmap.sh/projects/markdown-note-taking-app) Challenge from [roadmap.sh](roadmap.sh).
+This Markdown Note-Taking App is a web-based application built using Laravel, designed to provide a simple and intuitive interface for writing and managing notes in Markdown format. Users can create, edit, and store their notes with real-time grammar checking and HTML rendering support.
 
 ## Features
 
@@ -84,8 +84,8 @@ This is a simple **Markdown Note-Taking App** built with Laravel. It allows user
 ### **1. Clone the Repository**
 
 ```sh
- git clone https://github.com/connecttoMAHDI/markdown-note-taking-app.git
- cd markdown-note-taking-app
+ git clone https://github.com/ramanhuf/grammar-checking-markdown-laravel.git
+ cd grammar-checking-markdown-laravel
 ```
 
 ### **2. Install Dependencies**
