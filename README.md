@@ -128,11 +128,11 @@ Then, generate an application key:
 
 ## API Testing
 
-A Postman-compatible collection file, `markdown-note-taking-app.json`, is available in the project root. You can import it into Postman or Talend API Tester for easy testing of API endpoints.
+A Postman-compatible collection file, `grammar-checking-markdown-laravel.json`, is available in the project root. You can import it into Postman or Talend API Tester for easy testing of API endpoints.
 
 ### Steps to Import:
 
 1. Open Postman or Talend API Tester.
 2. Click on `Import`.
-3. Select `markdown-note-taking-app.json` from the project root.
+3. Select `grammar-checking-markdown-laravel.json` from the project root.
 4. Start testing the API endpoints.
